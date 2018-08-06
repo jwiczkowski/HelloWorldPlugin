@@ -1,0 +1,17 @@
+{
+	"name"              : "plentyBaseHelloworld",
+	"marketplaceName"   : {"de":"German display name of plugin","en":"English display name of plugin"},
+	"namespace"         : "example namespace",
+	"type"              : "template",
+	"version"           : "1.0.0",
+	"license"           : "The license for the plugin",
+	"isClosedSource"    : "Determines if your plugin is closed source or open source",
+	"pluginIcon"        : "The plugin icon",
+	"price"             : 0.00,
+	"description"       : "The description for your plugin",
+	"shortDescription"  : {"de":"German short description","en":"English short description"},
+	"categories"        : ["3517", "3518"],
+	"keywords"          : ["plugins", "template"],
+	"author"            : "Your name",
+	"authorIcon"        : "The author icon"
+}

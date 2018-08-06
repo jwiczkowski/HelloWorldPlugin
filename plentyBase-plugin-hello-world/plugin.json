@@ -1,0 +1,8 @@
+{
+    "name"              :"plentyBase-plugin-hello-world",
+    "description"       :"My first plugin",
+    "namespace"         :"HelloWorld",
+    "author"            :"Jacek Wiczkowski",
+    "type"              :"template",
+    "serviceProvider"   :null
+}
